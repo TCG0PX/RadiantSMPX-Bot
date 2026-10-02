@@ -1,0 +1,12 @@
+{
+  "name": "radiantsmpx-bot",
+  "version": "1.0.0",
+  "description": "RadiantSMPX Minecraft AFK Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.31.0"
+  }
+}
